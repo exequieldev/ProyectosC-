@@ -1,0 +1,17 @@
+C:\Users\Exequiel\Documents\Portafolio\10_ProyectosC#\2_Proyecto-Grupo-2\2_Proyecto-Grupo-2\bin\Debug\net8.0-windows\2_Proyecto-Grupo-2.exe
+C:\Users\Exequiel\Documents\Portafolio\10_ProyectosC#\2_Proyecto-Grupo-2\2_Proyecto-Grupo-2\bin\Debug\net8.0-windows\2_Proyecto-Grupo-2.deps.json
+C:\Users\Exequiel\Documents\Portafolio\10_ProyectosC#\2_Proyecto-Grupo-2\2_Proyecto-Grupo-2\bin\Debug\net8.0-windows\2_Proyecto-Grupo-2.runtimeconfig.json
+C:\Users\Exequiel\Documents\Portafolio\10_ProyectosC#\2_Proyecto-Grupo-2\2_Proyecto-Grupo-2\bin\Debug\net8.0-windows\2_Proyecto-Grupo-2.dll
+C:\Users\Exequiel\Documents\Portafolio\10_ProyectosC#\2_Proyecto-Grupo-2\2_Proyecto-Grupo-2\bin\Debug\net8.0-windows\2_Proyecto-Grupo-2.pdb
+C:\Users\Exequiel\Documents\Portafolio\10_ProyectosC#\2_Proyecto-Grupo-2\2_Proyecto-Grupo-2\obj\Debug\net8.0-windows\_2_Proyecto_Grupo_2.Form1.resources
+C:\Users\Exequiel\Documents\Portafolio\10_ProyectosC#\2_Proyecto-Grupo-2\2_Proyecto-Grupo-2\obj\Debug\net8.0-windows\2_Proyecto-Grupo-2.csproj.GenerateResource.cache
+C:\Users\Exequiel\Documents\Portafolio\10_ProyectosC#\2_Proyecto-Grupo-2\2_Proyecto-Grupo-2\obj\Debug\net8.0-windows\2_Proyecto-Grupo-2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Exequiel\Documents\Portafolio\10_ProyectosC#\2_Proyecto-Grupo-2\2_Proyecto-Grupo-2\obj\Debug\net8.0-windows\2_Proyecto-Grupo-2.AssemblyInfoInputs.cache
+C:\Users\Exequiel\Documents\Portafolio\10_ProyectosC#\2_Proyecto-Grupo-2\2_Proyecto-Grupo-2\obj\Debug\net8.0-windows\2_Proyecto-Grupo-2.AssemblyInfo.cs
+C:\Users\Exequiel\Documents\Portafolio\10_ProyectosC#\2_Proyecto-Grupo-2\2_Proyecto-Grupo-2\obj\Debug\net8.0-windows\2_Proyecto-Grupo-2.csproj.CoreCompileInputs.cache
+C:\Users\Exequiel\Documents\Portafolio\10_ProyectosC#\2_Proyecto-Grupo-2\2_Proyecto-Grupo-2\obj\Debug\net8.0-windows\2_Proyecto-Grupo-2.sourcelink.json
+C:\Users\Exequiel\Documents\Portafolio\10_ProyectosC#\2_Proyecto-Grupo-2\2_Proyecto-Grupo-2\obj\Debug\net8.0-windows\2_Proyecto-Grupo-2.dll
+C:\Users\Exequiel\Documents\Portafolio\10_ProyectosC#\2_Proyecto-Grupo-2\2_Proyecto-Grupo-2\obj\Debug\net8.0-windows\refint\2_Proyecto-Grupo-2.dll
+C:\Users\Exequiel\Documents\Portafolio\10_ProyectosC#\2_Proyecto-Grupo-2\2_Proyecto-Grupo-2\obj\Debug\net8.0-windows\2_Proyecto-Grupo-2.pdb
+C:\Users\Exequiel\Documents\Portafolio\10_ProyectosC#\2_Proyecto-Grupo-2\2_Proyecto-Grupo-2\obj\Debug\net8.0-windows\2_Proyecto-Grupo-2.genruntimeconfig.cache
+C:\Users\Exequiel\Documents\Portafolio\10_ProyectosC#\2_Proyecto-Grupo-2\2_Proyecto-Grupo-2\obj\Debug\net8.0-windows\ref\2_Proyecto-Grupo-2.dll
