@@ -1,0 +1,7 @@
+C:\Users\Exequiel\Documents\Portafolio\10_ProyectosC#\Proyecto-Grupo3\Proyecto-Grupo3\obj\Debug\net8.0-windows\Proyecto_Grupo3.Form1.resources
+C:\Users\Exequiel\Documents\Portafolio\10_ProyectosC#\Proyecto-Grupo3\Proyecto-Grupo3\obj\Debug\net8.0-windows\Proyecto-Grupo3.csproj.GenerateResource.cache
+C:\Users\Exequiel\Documents\Portafolio\10_ProyectosC#\Proyecto-Grupo3\Proyecto-Grupo3\obj\Debug\net8.0-windows\Proyecto-Grupo3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Exequiel\Documents\Portafolio\10_ProyectosC#\Proyecto-Grupo3\Proyecto-Grupo3\obj\Debug\net8.0-windows\Proyecto-Grupo3.AssemblyInfoInputs.cache
+C:\Users\Exequiel\Documents\Portafolio\10_ProyectosC#\Proyecto-Grupo3\Proyecto-Grupo3\obj\Debug\net8.0-windows\Proyecto-Grupo3.AssemblyInfo.cs
+C:\Users\Exequiel\Documents\Portafolio\10_ProyectosC#\Proyecto-Grupo3\Proyecto-Grupo3\obj\Debug\net8.0-windows\Proyecto-Grupo3.csproj.CoreCompileInputs.cache
+C:\Users\Exequiel\Documents\Portafolio\10_ProyectosC#\Proyecto-Grupo3\Proyecto-Grupo3\obj\Debug\net8.0-windows\Proyecto-Grupo3.sourcelink.json

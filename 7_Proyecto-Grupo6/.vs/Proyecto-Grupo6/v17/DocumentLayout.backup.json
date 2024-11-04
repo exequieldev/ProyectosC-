@@ -1,0 +1,84 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Exequiel\\Documents\\Portafolio\\10_ProyectosC#\\7_Proyecto-Grupo6\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E7C1EC43-9F0B-41E6-90A0-6D3E34E16C78}|Proyecto-Grupo6\\Proyecto-Grupo6.csproj|c:\\users\\exequiel\\documents\\portafolio\\10_proyectosc#\\7_proyecto-grupo6\\proyecto-grupo6\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7C1EC43-9F0B-41E6-90A0-6D3E34E16C78}|Proyecto-Grupo6\\Proyecto-Grupo6.csproj|solutionrelative:proyecto-grupo6\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7C1EC43-9F0B-41E6-90A0-6D3E34E16C78}|Proyecto-Grupo6\\Proyecto-Grupo6.csproj|C:\\Users\\Exequiel\\Documents\\Portafolio\\10_ProyectosC#\\7_Proyecto-Grupo6\\proyecto-grupo6\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E7C1EC43-9F0B-41E6-90A0-6D3E34E16C78}|Proyecto-Grupo6\\Proyecto-Grupo6.csproj|solutionrelative:proyecto-grupo6\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7C1EC43-9F0B-41E6-90A0-6D3E34E16C78}|Proyecto-Grupo6\\Proyecto-Grupo6.csproj|c:\\users\\exequiel\\documents\\portafolio\\10_proyectosc#\\7_proyecto-grupo6\\proyecto-grupo6\\geometria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7C1EC43-9F0B-41E6-90A0-6D3E34E16C78}|Proyecto-Grupo6\\Proyecto-Grupo6.csproj|solutionrelative:proyecto-grupo6\\geometria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{26341fe2-71dd-46fd-bb1b-2e51a92a0d64}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Exequiel\\Documents\\Portafolio\\10_ProyectosC#\\7_Proyecto-Grupo6\\Proyecto-Grupo6\\Form1.cs",
+              "RelativeDocumentMoniker": "Proyecto-Grupo6\\Form1.cs",
+              "ToolTip": "C:\\Users\\Exequiel\\Documents\\Portafolio\\10_ProyectosC#\\7_Proyecto-Grupo6\\Proyecto-Grupo6\\Form1.cs",
+              "RelativeToolTip": "Proyecto-Grupo6\\Form1.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAADcAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T11:12:57.732Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Exequiel\\Documents\\Portafolio\\10_ProyectosC#\\7_Proyecto-Grupo6\\Proyecto-Grupo6\\Form1.cs",
+              "RelativeDocumentMoniker": "Proyecto-Grupo6\\Form1.cs",
+              "ToolTip": "C:\\Users\\Exequiel\\Documents\\Portafolio\\10_ProyectosC#\\Proyecto-Grupo6\\Proyecto-Grupo6\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\Proyecto-Grupo6\\Proyecto-Grupo6\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T09:49:28.676Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Geometria.cs",
+              "DocumentMoniker": "C:\\Users\\Exequiel\\Documents\\Portafolio\\10_ProyectosC#\\7_Proyecto-Grupo6\\Proyecto-Grupo6\\Geometria.cs",
+              "RelativeDocumentMoniker": "Proyecto-Grupo6\\Geometria.cs",
+              "ToolTip": "C:\\Users\\Exequiel\\Documents\\Portafolio\\10_ProyectosC#\\7_Proyecto-Grupo6\\Proyecto-Grupo6\\Geometria.cs",
+              "RelativeToolTip": "Proyecto-Grupo6\\Geometria.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABsAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T11:01:57.299Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
